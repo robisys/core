@@ -5,6 +5,8 @@ dotnet  --info
 dotnet  new --help
 dotnet  test --help
 # cd src/Core
-cd src/Mail
+# cd src/Mail
+cd src/Api
 dotnet restore
 # dotnet run
+

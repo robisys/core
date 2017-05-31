@@ -4,6 +4,6 @@
 dotnet  --info
 dotnet  new --help
 dotnet  test --help
-cd ./Core
+cd src/Core
 dotnet restore
 dotnet run

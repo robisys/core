@@ -7,4 +7,4 @@ dotnet  test --help
 # cd src/Core
 cd src/Mail
 dotnet restore
-dotnet run
+# dotnet run

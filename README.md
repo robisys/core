@@ -1,7 +1,7 @@
-[![appveyor build](https://ci.appveyor.com/api/projects/status/github/bitwarden/core?branch=master&svg=true)](https://ci.appveyor.com/project/bitwarden/core/branch/master)
-[![Join the chat at https://gitter.im/bitwarden/Lobby](https://badges.gitter.im/bitwarden/Lobby.svg)](https://gitter.im/bitwarden/Lobby)
+https://ci.appveyor.com/api/projects/status/github/bitwarden/core?branch=master&svg=true 
+(https://ci.appveyor.com/project/bitwarden/core/branch/master)
 
-# bitwarden Core
+#bitwarden Core
 
 The bitwarden Core project contains the APIs, database, and other infrastructure items needed for the "backend" of all other bitwarden projects.
 

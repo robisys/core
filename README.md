@@ -25,3 +25,15 @@ Open `bitwarden-core.sln`. After restoring the nuget packages, you can build and
 Code contributions are welcome! Visual Studio or VS Code is required to work on this project. Please commit any pull requests against the `master` branch.
 
 Security audits and feedback are welcome. Please open an issue or email us privately if the report is sensitive in nature. You can read our security policy in the [`SECURITY.md`](SECURITY.md) file.
+
+      #!/usr/bin/env bash
+      # dotnet restore && dotnet build
+      # dotnet new --info
+      # dotnet  --info
+      # dotnet  new --help
+      # dotnet  test --help
+      # cd src/Core
+      # cd src/Mail
+      cd src/Api
+      dotnet restore
+      # dotnet run

@@ -7,4 +7,5 @@ dotnet: 1.0.4
 before_script:
  - chmod +x ./build.sh
 script:
-  - xbuild /p:Configuration=Release bitwarden-core.sln
+ - ./build.sh --quiet verify
+

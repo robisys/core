@@ -8,5 +8,5 @@
 # cd src/Mail
 cd src/Api
 dotnet restore
-# dotnet run
+ dotnet run
 

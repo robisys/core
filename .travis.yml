@@ -1,8 +1,9 @@
 language: csharp
+solution: bitwarde-core.sln
 dist: trusty
 sudo: required
 mono: none
-dotnet: 1.0.1
+dotnet: 1.0.4
 before_script:
  - chmod +x ./build.sh
 script:

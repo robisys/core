@@ -4,8 +4,6 @@ dist: trusty
 sudo: required
 mono: none
 dotnet: 1.0.4
-install:
-  - nuget restore bitwarden-core.sln
 before_script:
  - chmod +x ./build.sh
 script:

@@ -8,6 +8,7 @@
 # cd src/Mail
 cd src/Api
 dotnet restore
-dotnet build -f 461
+dotnet build
+#dotnet build -f 461
  dotnet run
 

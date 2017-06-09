@@ -3,7 +3,7 @@ https://ci.appveyor.com/api/projects/status/github/bitwarden/core?branch=master&
 
 [![Build Status](https://secure.travis-ci.org/robisys/core.svg?branch=master)](https://travis-ci.org/robisys/core)
 
-
+[forked from](https://github.com/bitwarden/core)
 
 # bitwarden Core
 

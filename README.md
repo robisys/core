@@ -5,6 +5,8 @@ https://ci.appveyor.com/api/projects/status/github/bitwarden/core?branch=master&
 
 [forked from](https://github.com/bitwarden/core)
 
+[bitwarden](https://github.com/bitwarden)
+
 # bitwarden Core
 
 The bitwarden Core project contains the APIs, database, and other infrastructure items needed for the "backend" of all other bitwarden projects.

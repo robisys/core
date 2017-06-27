@@ -3,7 +3,8 @@ solution: bitwarden-core.sln
 dist: trusty
 sudo: required
 mono: none
-dotnet: 1.0.0-preview4-004233
+#dotnet: 1.0.0-preview4-004233
+dotnet:  1.0.4
 before_script:
  - chmod +x ./build.sh
 script:
